@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Dominio/Dominio.csproj" Id="1fbf6e03-da8e-4980-bde7-c20f4d96edd9" />
+  <Project Path="TuTaller/TuTaller.csproj" Id="b621b58a-54ec-422f-82b7-02867d3bbc85" />
+</Solution>
