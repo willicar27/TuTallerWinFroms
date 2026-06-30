@@ -13,8 +13,8 @@ namespace Dominio
         public int MecanicoId { get; set; }
         public string Descripcion { get; set; }
         public DateTime Fecha { get; set; }
-        public DateTime HoraInicio { get; set; }
-        public DateTime HoraFin { get; set; }
+        public DateTime? HoraInicio { get; set; }
+        public DateTime? HoraFin { get; set; }
         public string Estado { get; set; }
         public string Total { get; set; }
     }
